@@ -1,8 +1,10 @@
 import java.util.Scanner;
+
 /*
 The application prompts the user to enter an integer between 1 and 100
 Display the associated result based on the integer range entered
  */
+
 public class Main {
 
     public static void main(String[] args) {
@@ -40,5 +42,6 @@ public class Main {
             System.out.println("Input outside bounds of 1-100"); // condition if user input isn't between 1 and 100
         }
 
-    }
-}
+    } // main
+
+} //class
