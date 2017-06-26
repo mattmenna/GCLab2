@@ -41,7 +41,5 @@ public class Main {
         {
             System.out.println("Input outside bounds of 1-100"); // condition if user input isn't between 1 and 100
         }
-
     } // main
-
 } //class
